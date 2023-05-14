@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AbstractFactory</string>
+    <string name="change_type">Change Type</string>
+</resources>
